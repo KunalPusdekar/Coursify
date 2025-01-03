@@ -137,10 +137,10 @@ CONTACT_US_EMAIL = <YOUR_CONTACT_US_EMAIL>
 ## 🖼️ Screenshots
 
 ### 1. Landing Page
-(<img width="1433" alt="LMS1" src="https://github.com/user-attachments/assets/9c4ec28e-a0ba-486c-8134-af6c171c0f9f" />)
+<img width="1433" alt="LMS1" src="https://github.com/user-attachments/assets/9c4ec28e-a0ba-486c-8134-af6c171c0f9f" />
 
 ### 2. Admin Dashboard
-(<img width="1096" alt="LMS2" src="https://github.com/user-attachments/assets/b0711e41-e3e7-48ca-9cb8-a8eb69d61673" />)
+<img width="1096" alt="LMS2" src="https://github.com/user-attachments/assets/b0711e41-e3e7-48ca-9cb8-a8eb69d61673" />
 
 ---
 
