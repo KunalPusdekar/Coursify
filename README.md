@@ -152,4 +152,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## ✉️ Contact
 
-For any questions or feedback, please email [CONTACT_US_EMAIL].
+For any questions or feedback, please email <a href="mailto:kunalpusdekar16@gmail.com">kunalpusdekar16@gmail.com</a>.
