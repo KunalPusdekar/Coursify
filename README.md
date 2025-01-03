@@ -14,39 +14,38 @@
 - [Environment Variables](#environment-variables)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ---
 
-## Overview
+## 📝 Overview
 
-The **LMS (Learning Management System)** is a full-stack web application designed to streamline the process of learning and teaching. It provides secure user authentication, course management, role-based access control, and a seamless payment gateway for subscriptions.
+The **LMS (Learning Management System)** is a comprehensive full-stack web application aimed at enhancing the learning and teaching experience. It offers robust features like secure user authentication, efficient course management, role-based access control, and a smooth integration with a payment gateway for seamless course subscriptions.
 
 ---
 
-## Features
+## ⭐ Features
 
-- **User Authentication & Authorization**:
+- ** 🎯 User Authentication & Authorization**:
   - Secure login/logout functionality
   - Role-based access control (Admin & Student)
   - Password reset and profile management
 
-- **Course Management**:
+- ** 📚 Course Management**:
   - Admins can add, update, and remove courses
   - Students can view and subscribe to courses
 
-- **Payment Gateway**:
+- ** 💳 Payment Gateway**:
   - Integrated Razorpay for secure course subscriptions
 
-- **Content Upload**:
+- ** 📤 Content Upload**:
   - Courses can have lectures uploaded to the platform using Cloudinary
 
-- **Email Notifications**:
+- ** 📧  Email Notifications**:
   - SMTP integration for sending account-related emails
 
 ---
 
-## Technologies Used
+## ⚙️ Technologies Used
 
 - **Frontend**: React.js
 - **Backend**: Express.js
@@ -55,13 +54,12 @@ The **LMS (Learning Management System)** is a full-stack web application designe
 
 ---
 
-## Installation
+## 📦 Installation
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/KunalPusdekar/Coursify.git
-   cd Coursify
    ```
 
 2. Install dependencies for both the client and server:
@@ -90,7 +88,7 @@ The **LMS (Learning Management System)** is a full-stack web application designe
 
 ---
 
-## Environment Variables
+## 🌱 Environment Variables
 
 Create a `.env` file in the `server/` directory based on the `.env.example` file. Below are the required environment variables:
 
@@ -123,7 +121,7 @@ CONTACT_US_EMAIL = <YOUR_CONTACT_US_EMAIL>
 
 ---
 
-## Usage
+## 🚀 Usage
 
 1. **Start the Application**:
    - The frontend will be available at `http://localhost:3000`
@@ -136,28 +134,22 @@ CONTACT_US_EMAIL = <YOUR_CONTACT_US_EMAIL>
 
 ---
 
-## Screenshots
+## 🖼️ Screenshots
 
 ### 1. Landing Page
-![Landing Page](https://via.placeholder.com/800x400.png?text=Landing+Page)
+![Landing Page](<img width="1433" alt="LMS1" src="https://github.com/user-attachments/assets/9c4ec28e-a0ba-486c-8134-af6c171c0f9f" />)
 
-### 2. Course Dashboard
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard)
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+### 2. Admin Dashboard
+![Dashboard](<img width="1096" alt="LMS2" src="https://github.com/user-attachments/assets/b0711e41-e3e7-48ca-9cb8-a8eb69d61673" />)
 
 ---
 
-## Contributing
+## 💫 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any improvements or suggestions.
 
 ---
 
-## Contact
+## ✉️ Contact
 
 For any questions or feedback, please email [CONTACT_US_EMAIL].
